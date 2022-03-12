@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ram-Deepak
-- 👀 I’m interested in ... ML, Data Science and Web development
+- 👀 I’m interested in ... ML, Data Science
 - 🌱 I’m currently learning ... Computer Science Engineering + Data Science
 - 💞️ I’m looking to collaborate on ... Data Science, Web development projects
 - 📫 How to reach me ... ramdeepak33@gmail.com
